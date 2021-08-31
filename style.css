@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.full-website{
+    text-align:center;
+    width: 1024px;
+    margin: 0 auto;
+}
+.menu{
+    background: red;
+}
+
+.footer{
+    background: blue;
+}
+.footer-bottom{
+    background:pink;
+}
+
+.img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+
+.op{
+    
+}
